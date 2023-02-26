@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# My portfolio made with React js. and Tailwind CSS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is my personal portfolio made with React js and Tailwind CSS. Packages that are used include reactscroll and heroicons.
 
 ## Available Scripts
 
