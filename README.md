@@ -1,4 +1,4 @@
-# My portfolio made with React js. and Tailwind CSS
+# My portfolio site
 
 This project is my personal portfolio made with React js and Tailwind CSS. Packages that are used include reactscroll and heroicons.
 
