@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.5339d506.css",
+    "main.js": "/React-Portfolio/static/js/main.d4c384e6.js",
+    "static/media/support.jpg": "/React-Portfolio/static/media/support.a3ab24db32def5be6b15.jpg",
+    "static/media/cyber-bg.png": "/React-Portfolio/static/media/cyber-bg.44527257ee32d74ae878.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.5339d506.css.map": "/React-Portfolio/static/css/main.5339d506.css.map",
+    "main.d4c384e6.js.map": "/React-Portfolio/static/js/main.d4c384e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5339d506.css",
+    "static/js/main.d4c384e6.js"
+  ]
+}
